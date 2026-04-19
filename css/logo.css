@@ -1,0 +1,10 @@
+img {
+width: 10vw;
+}
+.Welcome {
+display: grid;
+place-items: center;
+height: 15vh;
+font-size: 6vh;
+font-family: Times New Roman;
+}
